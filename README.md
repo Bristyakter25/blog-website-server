@@ -64,4 +64,4 @@
 ### Live Demo:
  **https://blog-website-8c111.web.app/**
 ### Github Server side repo: 
- **https://github.com/programming-hero-web-course2/b10a11-server-side-Bristyakter25**
+ **https://github.com/Bristyakter25/blog-website-server**
