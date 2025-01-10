@@ -1,4 +1,4 @@
-## Blog Website (Client-Side)
+## Blog Website (Server-Side)
 ### Overview:
 **This blog website provides a dynamic platform for users to read, write, and interact with blog posts. Built using React, the frontend is designed to be responsive, ensuring seamless user experience across both desktop and mobile devices. Users can browse through various blog posts, interact with them, and manage their profile via secure authentication.**
 
